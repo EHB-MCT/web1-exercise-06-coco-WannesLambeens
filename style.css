@@ -1,0 +1,42 @@
+
+.wrapper{
+    width: 1200px;
+    height:800px;
+    margin: auto;
+    background-image: url(images-coco/coco.jpg);
+    background-repeat: no-repeat;
+    padding-top: 200px;
+}
+
+.blok{
+    width: 500px;
+    height: 450px;
+    margin-left: 50%;
+    
+}
+
+.logo{
+    text-align: center;
+}
+img{
+    width: 60%;
+}
+
+.tekst{
+    color: white;
+    font-family: abel;
+    text-align: left;
+}
+
+a{
+    font-family: abel;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(213, 138, 0);
+    padding: 15px;
+    border-radius: 3px;
+}
+
+p{
+    margin-bottom: 50px;
+}
